@@ -2,8 +2,8 @@
 Final Project Rakamin Academy Data Science Bootcamp Batch 25
 
 # Problem Statement
-Berdasarkan data yang dikutip melalui Laporan US Department Transportation and National Transportation Safety Board
-Kendaraan bermobil merupakan moda transportasi yang tidak aman..... Pada tahun 2020 terdapat sebanyak 5.250.837 kecelakaan terjadi dan merenggut kematian korban jiwa hingga 35.766
+Berdasarkan data yang dikutip melalui Laporan US Department Transportation and National Transportation Safety Board.
+Kendaraan bermobil merupakan moda transportasi yang paling tidak aman..... Pada tahun 2020 saja tercatat sebanyak 5.250.837 kecelakaan terjadi dan merenggut kematian korban jiwa hingga 35.766
 
 Jika berdasarkan data tersebut terdapat besar peluang yang diharapkan dari dilakukannya penjualan Asuransi kendaraan
 
