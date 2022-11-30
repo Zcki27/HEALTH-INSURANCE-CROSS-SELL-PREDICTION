@@ -1,16 +1,6 @@
 # Hello_Sigma
 Final Project Rakamin Academy Data Science Bootcamp Batch 25
 
-# People Behind Project
-1. Dwita
-2. Maulana
-3. Putu
-4. Friska
-5. Anggita
-6. Budi
-7. Edward
-8. Zaki
-
 # Problem Statement
 Berdasarkan data yang dikutip melalui Laporan US Department Transportation and National Transportation Safety Board
 Kendaraan bermobil merupakan moda transportasi yang tidak aman..... Pada tahun 2020 terdapat sebanyak 5.250.837 kecelakaan terjadi dan merenggut kematian korban jiwa hingga 35.766
@@ -18,7 +8,7 @@ Kendaraan bermobil merupakan moda transportasi yang tidak aman..... Pada tahun 2
 Jika berdasarkan data tersebut terdapat besar peluang yang diharapkan dari dilakukannya penjualan Asuransi kendaraan
 
 Namun berdasarkan dataset yang dimiliki oleh Perusahaan asuransi Hello Sigma
-Hanya terdapat 12,3% yang tertarik terhadap asuransi kendaraan dari keseluruhan kustomer yang dimilikinya sebanyak 381.109 data
+Hanya terdapat 12,3% yang tertarik terhadap asuransi kendaraan dari keseluruhan kustomer yang dimilikinya sebanyak 381.109 data. Hal tersebut membuat perusahaan ingin meningkatkan user interested rate Asuransi Kendaraan. Sehingga terdapat beberapa hal yang perlu dilakukan guna mencapai goals dari business problem tersebut, antara lain:
 
 Goals: Meningkatkan User Interested Rate sebesar 10%
 Objective: 
@@ -34,8 +24,9 @@ Business Metrics: User Interested Rate
 2. Univariate Analysis
 3. Multivariate Analysis
 
-# Business Insigth
+Setelah dilakukan pemrosesan pada data hingga mencari model yang relevan, didapatkan kesimpulan sebagai berikut :
 
+# Business Insigth
 - Pada nasabah yang tertarik menggunakan Asuransi Kendaraan, kondisi kendaraan sebelumnya lebih banyak yang telah mengalami kerusakan dibandingkan yang belum. 
 
 - Nasabah yang tertarik menggunakan Asuransi Kendaraan baik Male maupun Female tidak terdapat perbedaan yang signifikan.
@@ -66,7 +57,7 @@ Business Metrics: User Interested Rate
 
 # Modelling
 - Split Data Train & Test
-- Modelling
+- Modelling : Model yang digunakan pada case ini adalah Regresi Logistic dan menggunakan Metric Recall
 - Model Evaluation
 - Hyperparameter Tuning
 - Tuning Threshold
@@ -84,4 +75,3 @@ Business Metrics: User Interested Rate
 - Steer Clear: Usia dibawah 25 tahun dan tidak terdapat catatan kecelakaan mendapatkan diskon hingag 15%
 3. Berpartisipasi dalam kegiatan sosial masyarakat dan memberikan edukasi bahwa tujuan asuransi adalah membantu memberikan rasa aman dan nyaman kepada masyarakat terkait resiko yang akan terjadi kedepannya mengenai penggunaan kendaraan. Kemudian membuat Campaign kegitan sosial untuk membantu perusahaan membangun citra positif yannnng lebih kuat dihadapan masyarakat.
 4. Bekerja sama dengan dealer maupun bengkel untuk menawarkan asuransi kepada konsumen mereka yang membeli mobil dengan cash terutama pada usia kendaraan 1-2 tahun.
-
