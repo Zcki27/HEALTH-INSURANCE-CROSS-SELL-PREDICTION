@@ -2,10 +2,10 @@
 Final Project Rakamin Academy Data Science Bootcamp Batch 25
 
 # Problem Statement
-Berdasarkan data yang dikutip melalui Laporan US Department Transportation and National Transportation Safety Board.
-Kendaraan bermobil merupakan moda transportasi yang paling tidak aman..... Pada tahun 2020 saja tercatat sebanyak 5.250.837 kecelakaan terjadi dan merenggut kematian korban jiwa hingga 35.766
+Berdasarkan data yang dikutip melalui Laporan US Department Transportation dan National Transportation Safety Board.
+Diketahui bahwa kendaraan bermobil merupakan moda transportasi yang paling tidak aman..... Pada tahun 2020 saja tercatat sebanyak 5.250.837 kecelakaan terjadi di US dan merenggut korban jiwa hingga 35.766 orang.
 
-Jika berdasarkan data tersebut terdapat besar peluang yang diharapkan dari dilakukannya penjualan Asuransi kendaraan
+Jika berdasarkan data tersebut terdapat besar peluang yang diharapkan dari dilakukannya penjualan Asuransi kendaraan.
 
 Namun berdasarkan dataset yang dimiliki oleh Perusahaan asuransi Hello Sigma
 Hanya terdapat 12,3% yang tertarik terhadap asuransi kendaraan dari keseluruhan kustomer yang dimilikinya sebanyak 381.109 data. Hal tersebut membuat perusahaan ingin meningkatkan user interested rate Asuransi Kendaraan. Sehingga terdapat beberapa hal yang perlu dilakukan guna mencapai goals dari business problem tersebut, antara lain:
@@ -62,10 +62,6 @@ Setelah dilakukan pemrosesan pada data hingga mencari model yang relevan, didapa
 - Hyperparameter Tuning
 - Tuning Threshold
 - Gain and Lift
-
-# Business Simulation
-
-# Feature Importance 
 
 # Business Recomendation
 1. Perusahaan dapat memfokuskan pada nasabah yang sebelumnya memiliki Asuransi Kendaraan dan kondisi kendaraanya rusak
