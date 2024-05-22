@@ -26,7 +26,7 @@ Business Metrics: User Interested Rate
 
 Setelah dilakukan pemrosesan pada data hingga mencari model yang relevan, didapatkan kesimpulan sebagai berikut :
 
-# Business Insigth
+# Business Insight
 - Pada nasabah yang tertarik menggunakan Asuransi Kendaraan, kondisi kendaraan sebelumnya lebih banyak yang telah mengalami kerusakan dibandingkan yang belum. 
 
 - Nasabah yang tertarik menggunakan Asuransi Kendaraan baik Male maupun Female tidak terdapat perbedaan yang signifikan.
